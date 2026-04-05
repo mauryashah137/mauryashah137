@@ -1,194 +1,104 @@
-<h1 align="center">
-  Hey, I'm Maurya Shah 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
-</h1>
+<div align="center">
 
-<p align="center">
-  <b>Product • Data • Analytics</b>
-  <br>
-  Master’s in Management Information Systems @ Texas A&M University (Class of 2026)
-</p>
+# Maurya Shah
 
-<p align="center">
-  <a href="https://github.com/mauryashah137">
-    <img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://www.linkedin.com/in/mauryashah">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:mauryashah1307@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Reach_out-red?style=for-the-badge&logo=gmail"/>
-  </a>
-</p>
+**Product · Data · Analytics**
+
+Master's in Management Information Systems · Texas A&M University · Class of 2026
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mauryashah-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauryashah)
+[![GitHub](https://img.shields.io/badge/GitHub-mauryashah137-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mauryashah137)
+[![Email](https://img.shields.io/badge/Email-mauryashah1307@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mauryashah1307@gmail.com)
+
+</div>
 
 ---
 
-# About Me
+## About
 
-<img align="right" src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="120"/>
+I work at the intersection of business and technology — turning messy datasets into decisions that actually matter. My background in electronics engineering, combined with graduate training in information systems, lets me move fluidly between technical implementation and strategic thinking.
 
-Problem solver at heart. Data detective by day. Cricket enthusiast dreaming about the next startup idea.
+At Texas A&M, I focus on machine learning, cloud systems, and product strategy. Outside coursework, I'm usually strategizing on the cricket field with the Aggie Cricket Club or sketching out the next startup idea.
 
-I work at the intersection of business and technology, transforming complex datasets into actionable insights that drive real impact. Currently pursuing my Master's in Management Information Systems at Texas A&M University (Fighting Texas Aggie Class of 2026), I focus on solving ambiguous problems using structured thinking, analytics, and product strategy.
-
-My background in electronics engineering combined with information systems allows me to approach problems from both technical and business perspectives, helping bridge the gap between raw data and strategic decision-making.
-
-Beyond dashboards and models, you’ll usually find me strategizing on the cricket field with the Aggie Cricket Club or exploring new product ideas.
+> *Just like a good cricket strategy, strong insights come from balancing patience, experimentation, and calculated risk.*
 
 ---
 
-# What I Focus On
+## Experience
 
-<img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="28">
+**Graduate Research Assistant** · Texas A&M University
+Structuring datasets across 160 countries to support AI-assisted classification of global data privacy regulations.
 
-I continuously work on strengthening skills across:
+**Data Science Intern** · Oizom Instruments
+Built ML calibration models that improved accuracy for electrochemical gas sensors.
 
-• advanced data management and statistical analysis  
-• machine learning fundamentals  
-• product strategy and user centric thinking  
-• cloud technologies and scalable architectures  
-• experimentation and KPI driven decision making  
-• stakeholder communication and cross functional collaboration  
+**Data Analyst Intern** · Innodel Technologies
+Automated ETL pipelines processing 250K+ transactions; built segmentation dashboards surfacing high-value customer groups.
 
-I enjoy working on problems where technology, data, and business context intersect.
+**Product Analyst Intern** · Innodel Technologies
+Translated stakeholder requirements into structured user stories and workflow documentation, reducing developer clarification cycles.
 
 ---
 
-# Featured Projects
+## Featured Projects
 
 ### RegDoc — AI Regulatory Document Classifier
-Built a multi stage AI pipeline combining OCR, heuristics, and LLM reasoning to classify regulatory documents based on sensitivity levels.
-
-Impact:
-• 93 percent classification accuracy  
-• explainable outputs for compliance workflows  
-• reduced manual document review effort  
+Multi-stage pipeline combining OCR, heuristics, and LLM reasoning to classify regulatory documents by sensitivity level.
+- **93%** classification accuracy
+- Explainable outputs designed for compliance workflows
+- Measurably reduced manual document review effort
 
 ---
 
-### Restaurant Analytics Dashboard (Datathon Top 3)
-Unified 13 operational datasets into forecasting dashboards to support inventory and supplier decisions.
-
-Impact:
-• improved forecast accuracy by 27 percent  
-• identified cost optimization opportunities  
-• ranked Top 3 at TAMU Datathon 2025  
+### Restaurant Analytics Dashboard · *Datathon Top 3*
+Unified 13 operational datasets into forecasting dashboards supporting inventory and supplier decisions.
+- **27%** improvement in forecast accuracy
+- Identified concrete cost optimization opportunities
+- Ranked **Top 3** at TAMU Datathon 2025
 
 ---
 
 ### Furniture Inventory Management System
-Designed scalable cloud based database architecture managing:
-
-• 10K customers  
-• 30K orders  
-• 8K products  
-
-Impact:
-• improved query performance by 65 percent  
-• reduced data load time by 36 percent  
+Designed a scalable cloud database architecture managing 10K customers, 30K orders, and 8K products.
+- **65%** improvement in query performance
+- **36%** reduction in data load time
 
 ---
 
-### DeliverEase Product Strategy Project
-Defined product vision for unified interface comparing multiple food delivery platforms.
-
-Included:
-• product requirements document  
-• personas and user journey  
-• feature prioritization framework  
-• freemium monetization strategy  
+### DeliverEase · Product Strategy
+Defined product vision for a unified interface aggregating multiple food delivery platforms.
+- Product requirements document, personas, and user journey mapping
+- Feature prioritization framework
+- Freemium monetization strategy
 
 ---
 
-# Experience Snapshot
+## Skills
 
-Graduate Assistant — Texas A&M University  
-Supporting research analyzing global data privacy regulations across 160 countries by structuring datasets for AI assisted classification.
-
-Data Science Intern — Oizom Instruments  
-Built machine learning calibration models improving electrochemical gas sensor accuracy.
-
-Data Analyst Intern — Innodel Technologies  
-Automated ETL pipelines processing 250K plus customer transactions and built segmentation dashboards identifying high value customer groups.
-
-Product Analyst Intern — Innodel Technologies  
-Translated stakeholder requirements into structured user stories and workflow documentation reducing development clarification cycles.
+| Area | Tools & Technologies |
+|---|---|
+| **Languages** | Python · SQL · R |
+| **Analytics & BI** | Tableau · Power BI · Excel · Streamlit |
+| **Machine Learning** | scikit-learn · XGBoost · EDA · Statistical Modeling |
+| **Data Systems** | MySQL · MongoDB · Snowflake · AWS EC2 · ETL Pipelines |
+| **Product** | Jira · Confluence · PRDs · Agile · Roadmapping |
 
 ---
 
-# Tech Stack
+## Interests
 
-Languages  
-Python  
-SQL  
-R  
-
-Analytics  
-Excel  
-Tableau  
-Power BI  
-Streamlit  
-
-Machine Learning  
-scikit learn  
-XGBoost  
-EDA  
-statistical modeling  
-
-Data Systems  
-MySQL  
-MongoDB  
-Snowflake  
-AWS EC2  
-ETL pipelines  
-
-Product  
-Jira  
-Confluence  
-PRDs  
-Agile  
-User stories  
-roadmapping  
+`cricket strategy` `formula 1 race strategy` `product design` `startup ideas` `data-driven decision making`
 
 ---
 
-# Interests
+## Let's Talk
 
-cricket strategy  
-formula 1 race strategy  
-product design  
-startup ideas  
-data driven decision making  
+Open to conversations around **product management**, **data analytics**, **technology consulting**, and **AI applications in business**.
 
-Fun fact:
-
-Just like a good cricket strategy, strong insights come from balancing patience, experimentation, and calculated risks.
+[LinkedIn](https://www.linkedin.com/in/mauryashah) · [GitHub](https://github.com/mauryashah137) · [Email](mailto:mauryashah1307@gmail.com)
 
 ---
 
-# Connect
-
-<a href="https://www.linkedin.com/in/mauryashah">LinkedIn</a>  
-<a href="https://github.com/mauryashah137">GitHub</a>  
-<a href="mailto:mauryashah1307@gmail.com">Email</a>  
-
-Always open to conversations around:
-
-product management  
-data analytics  
-technology consulting  
-AI applications in business  
-
----
-
-# Contributions Lap
-
-<p align="center">
-
-<img src="https://media.giphy.com/media/l0Iy0ZURatgztvYxq/giphy.gif" width="150"/>
-
-</p>
-
-<p align="center">
-always iterating • always improving
-</p>
+<div align="center">
+  <sub>always iterating · always improving</sub>
+</div>
