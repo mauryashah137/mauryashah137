@@ -151,7 +151,7 @@ Product:        Jira, Confluence, PRDs, Agile, Roadmapping, User Stories
 ### 🏎️ Contributions in Motion
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0Iy0ZURatgztvYxq/giphy.gif" width="480"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyNDNpbXdqcTJmNGlha3Fqb2x6cjFjNG5iZnBjYW1hNW9sNzQxYm9mNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1yhXREJ1wluT5xnfcd/giphy.gif" width="480"/>
 </p>
 
 <p align="center">
