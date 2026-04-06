@@ -1,7 +1,8 @@
-name: Generate F1 Contribution Animation
+name: 🏎 Generate F1 Contribution Track
 
 on:
   schedule:
+    # Runs every 12 hours
     - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
@@ -9,23 +10,41 @@ on:
       - main
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    permissions:
+      contents: write
 
     steps:
-      - name: Generate contribution snake (pacman style)
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/f1-contribution.svg
-            dist/f1-contribution-dark.svg?palette=github-dark
+      - name: Checkout repo
+        uses: actions/checkout@v4
 
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
-          target_branch: output
-          build_dir: dist
+          python-version: "3.11"
+
+      - name: Run F1 SVG generator
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USER: ${{ github.repository_owner }}
+        run: python generate_f1.py
+
+      - name: Commit and push SVGs to output branch
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Switch to (or create) the output branch
+          git fetch origin output 2>/dev/null || true
+          git checkout -B output
+
+          # Copy generated files to root of output branch
+          cp dist/f1-contribution.svg      ./f1-contribution.svg
+          cp dist/f1-contribution-dark.svg ./f1-contribution-dark.svg
+
+          git add f1-contribution.svg f1-contribution-dark.svg
+          git diff --staged --quiet && echo "No changes." && exit 0
+
+          git commit -m "chore: regenerate F1 contribution track [skip ci]"
+          git push origin output --force
