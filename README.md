@@ -123,6 +123,7 @@ Real-time multimodal AI shopping and support agent built on **Google Gemini Live
 
 - **DeliverEase · Product Strategy**
   Defined product vision for a unified food delivery aggregator. Delivered full PRD, personas, user journey, feature prioritization framework, and freemium monetization strategy.
+  🔗 [LinkedIn Post](https://www.linkedin.com/posts/mauryashah_deliverease-where-smart-foodies-order-activity-7259288456944619520-B3ee?utm_source=share&utm_medium=member_desktop&rcm=ACoAADebMT0BlekZQF0jH4rTpsMuslLoB-M1JNg)
 
 ---
 
