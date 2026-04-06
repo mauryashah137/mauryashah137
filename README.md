@@ -152,9 +152,9 @@ Product:        Jira, Confluence, PRDs, Agile, Roadmapping, User Stories
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mauryashah137/mauryashah137/output/f1-contribution-dark.svg"/>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/mauryashah137/mauryashah137/output/f1-contribution-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mauryashah137/mauryashah137/output/f1-contribution.svg"/>
-    <img alt="F1 contribution animation" src="https://raw.githubusercontent.com/mauryashah137/mauryashah137/output/f1-contribution.svg" width="100%"/>
+    <img alt="F1 Contribution Track" src="https://raw.githubusercontent.com/mauryashah137/mauryashah137/output/f1-contribution.svg" width="100%"/>
   </picture>
 </p>
 
