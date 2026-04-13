@@ -116,7 +116,7 @@ Real-time multimodal AI shopping and support agent built on **Google Gemini Live
 - **Property Lease-Up Analysis (Austin & Akron)**
   Applied clustering and AI-powered recommendations to analyze lease-up timelines across US markets.
   🔗 [Code](https://github.com/mauryashah137/Property_LeaseUp_Analysis_US)
-  🔗 [Live Dashboard](https://forecasting-kpi-analysis-dharmikbhagat.streamlit.app/)
+  🔗 [Live Dashboard](https://propertyanalysis-dharmikbhagat.streamlit.app/)
 
 - **Furniture Inventory Management System**
   Designed a scalable cloud database architecture managing 10K customers, 30K orders, and 8K products. **65% improvement in query performance · 36% reduction in data load time.**
